@@ -24,6 +24,7 @@ This script converts CP2K input file to a GROMACS NDX file.
 Reads a PDB containing the QM region and writes the atom indexes in the CP2K input format. 
 
 **Usage:** 
+
 ```python3 get_qm_kind [options] pdbfile```
 
 
