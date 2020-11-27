@@ -1,9 +1,9 @@
 # CP2K_qmmm_input_preparation_scripts
 A compilation of useful python scripts to create QM/MM CP2K inputfiles
 
-Author: Salome Llabres Prat
+**Author:** Salomé Llabrés Prat, PhD
 
-This repo contains the following scripts:
+This repository contains the following scripts:
 
 ### cp2krestart2gromacs.py
 
